@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: TechCat
+subtitle: 一只专注技术的猫
+description: 涉猎的主要编程语言为python/java/C++,领域涵盖机器学习、web开发、量化策略
 keywords:
-author: John Doe
-language: en
+author: dajige
+language: zh-CN
 timezone:
 
 # URL
